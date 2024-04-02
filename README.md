@@ -35,6 +35,7 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
+```
 %%cuda
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -246,7 +247,7 @@ free(gpuRef);
 cudaDeviceReset();
 return (0);
 }
-
+```
 ## OUTPUT:
 ![image](https://github.com/VinithaNaidu/PCA-EXP-2-MATRIX-SUMMATION-USING-2D-GRIDS-AND-2D-BLOCKS-AY-23-24/assets/121166004/3af096b5-902a-4429-8009-516cec84b6df)
 
