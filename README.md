@@ -3,7 +3,7 @@
 <h3>Name :  D.Vinitha </h3>
 <h3>REGISTER NO : 212222230175</h3>
 <h3>EX. NO : 02 </h3>
-<h3>DATE : 19.03.24</h3>
+<h3>DATE : 27.02.24</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
